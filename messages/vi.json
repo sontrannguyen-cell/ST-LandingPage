@@ -1,0 +1,330 @@
+{
+  "nav": {
+    "ecosystem": "Hệ sinh thái",
+    "capabilities": "Năng lực",
+    "industries": "Lĩnh vực",
+    "company": "Về chúng tôi",
+    "stories": "Câu chuyện",
+    "contact": "Liên hệ",
+    "openMenu": "Mở menu",
+    "closeMenu": "Đóng menu",
+    "skipToContent": "Bỏ qua, đến nội dung chính",
+    "language": "Ngôn ngữ",
+    "mainLabel": "Điều hướng chính",
+    "items": {
+      "stSoftware": "ST Software",
+      "devplus": "DevPlus",
+      "aquax": "AquaX",
+      "conextAsia": "Conext Asia",
+      "softwareDevelopment": "Phát triển phần mềm",
+      "aiData": "AI & Dữ liệu",
+      "aiotSmart": "AIoT & Giải pháp thông minh",
+      "educationTalent": "Đào tạo & Nhân lực",
+      "technologyTransfer": "Chuyển giao công nghệ & Đổi mới",
+      "communityEcosystem": "Cộng đồng & Hệ sinh thái",
+      "about": "Về ST United",
+      "journey": "Hành trình",
+      "careers": "Tuyển dụng",
+      "contact": "Liên hệ",
+      "projects": "Dự án & Case study",
+      "news": "Tin tức & Hoạt động"
+    },
+    "descriptors": {
+      "stSoftware": "Phần mềm & Công nghệ",
+      "devplus": "Đào tạo & Nhân lực",
+      "aquax": "AIoT & Nuôi trồng thủy sản thông minh",
+      "conextAsia": "Công nghệ xanh & thông minh"
+    },
+    "partnership": "Hợp tác",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng"
+  },
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "discoverMore": "Khám phá thêm",
+    "viewCase": "Xem dự án",
+    "viewStory": "Xem câu chuyện",
+    "opensInNewTab": "mở trong tab mới",
+    "previousSlide": "Slide trước",
+    "nextSlide": "Slide tiếp theo",
+    "goToSlide": "Đến slide {number}"
+  },
+  "hero": {
+    "label": "Băng chuyền giới thiệu",
+    "slides": {
+      "stUnited": {
+        "headline": "Xây dựng hệ sinh thái công nghệ cho một tương lai thông minh hơn",
+        "body": "ST United kết nối phát triển phần mềm, đào tạo nhân lực, AIoT và các sáng kiến công nghệ bền vững để tạo ra giá trị thiết thực cho doanh nghiệp, con người và cộng đồng.",
+        "tab": "ST United",
+        "cta": "Khám phá hệ sinh thái"
+      },
+      "stSoftware": {
+        "headline": "Kiến tạo sản phẩm số thúc đẩy doanh nghiệp đi xa hơn",
+        "body": "Từ ứng dụng web và di động đến phần mềm tùy chỉnh và đội ngũ chuyên trách, kỹ sư của chúng tôi xây dựng sản phẩm số bám sát nhu cầu kinh doanh thực tế.",
+        "tab": "ST Software",
+        "cta": "Khám phá ST Software"
+      },
+      "devplus": {
+        "headline": "Từ học tập đến sẵn sàng đi làm",
+        "body": "DevPlus kết nối trường đại học, sinh viên và doanh nghiệp thông qua đào tạo thực hành, chương trình thực tập quốc tế và phát triển nghề nghiệp gắn với môi trường làm việc thực tế.",
+        "tab": "DevPlus",
+        "cta": "Khám phá DevPlus"
+      },
+      "aquax": {
+        "headline": "Nuôi tôm thông minh hơn với AIoT",
+        "body": "AquaX kết hợp giám sát chất lượng nước liên tục, cảnh báo sớm và điều khiển thông minh, giúp trang trại nâng cao hiệu quả, giảm rủi ro và hướng tới nuôi trồng bền vững hơn.",
+        "tab": "AquaX",
+        "cta": "Khám phá AquaX"
+      },
+      "conextAsia": {
+        "headline": "Kết nối công nghệ xanh & thông minh khắp châu Á",
+        "body": "Conext Asia là cầu nối giữa các công nghệ AIoT, giải pháp bền vững với ứng dụng thực tế, đối tác và thị trường tại Việt Nam và châu Á – Thái Bình Dương.",
+        "tab": "Conext Asia",
+        "cta": "Khám phá Conext Asia"
+      }
+    }
+  },
+  "whoWeAre": {
+    "eyebrow": "HỆ SINH THÁI CÔNG NGHỆ ST UNITED",
+    "headline": "Công nghệ, Con người & Đổi mới — Kết nối trong một hệ sinh thái",
+    "body": "ST United là hệ sinh thái công nghệ kết nối phát triển phần mềm, đào tạo nhân lực thực chiến, giải pháp AIoT và các sáng kiến công nghệ xanh. Chúng tôi gắn kết con người, công nghệ và đối tác để biến ý tưởng thành kết quả thiết thực.",
+    "cta": "Về ST United",
+    "pillars": {
+      "technology": {
+        "title": "Công nghệ",
+        "body": "Xây dựng sản phẩm số và giải pháp thông minh cho nhu cầu kinh doanh thực tế."
+      },
+      "people": {
+        "title": "Con người",
+        "body": "Phát triển nhân lực sẵn sàng đi làm thông qua học thực hành và trải nghiệm quốc tế."
+      },
+      "innovation": {
+        "title": "Đổi mới",
+        "body": "Kết nối công nghệ mới, đối tác và thị trường để ứng dụng vào thực tiễn."
+      }
+    }
+  },
+  "ecosystem": {
+    "eyebrow": "HỆ SINH THÁI",
+    "headline": "Bốn thương hiệu, một hệ sinh thái kết nối",
+    "brands": {
+      "stSoftware": {
+        "category": "Phần mềm & Công nghệ",
+        "headline": "Xây dựng công nghệ tạo ra hiệu quả",
+        "body": "Dịch vụ phát triển phần mềm bao gồm web, mobile, phần mềm tùy chỉnh và đội ngũ kỹ sư chuyên trách cho doanh nghiệp tại Việt Nam và thị trường quốc tế."
+      },
+      "devplus": {
+        "category": "Đào tạo & Nhân lực",
+        "headline": "Kiến tạo thế hệ nhân lực công nghệ tiếp theo",
+        "body": "Các chương trình học thực hành, thực tập quốc tế và phát triển nghề nghiệp kết nối trường đại học, sinh viên và doanh nghiệp."
+      },
+      "aquax": {
+        "category": "AIoT & Nuôi trồng thủy sản thông minh",
+        "headline": "Nuôi trồng thủy sản thông minh hơn nhờ AIoT",
+        "body": "Giải pháp nuôi tôm thông minh kết hợp giám sát chất lượng nước, cảnh báo sớm và điều khiển thông minh, hướng tới vận hành hiệu quả và bền vững hơn."
+      },
+      "conextAsia": {
+        "category": "Công nghệ xanh & thông minh",
+        "headline": "Trung tâm giao thương công nghệ xanh & thông minh",
+        "body": "Hub công nghệ kết nối các sáng kiến AIoT và phát triển bền vững với đối tác, ứng dụng và thị trường tại Việt Nam và châu Á – Thái Bình Dương."
+      }
+    }
+  },
+  "capabilities": {
+    "eyebrow": "CHÚNG TÔI LÀM GÌ",
+    "headline": "Năng lực xuyên suốt hệ sinh thái",
+    "body": "Kỹ thuật phần mềm, dữ liệu, thiết bị kết nối, nhân lực và quan hệ đối tác — kết hợp quanh đúng kết quả mà dự án cần.",
+    "cta": "Khám phá năng lực",
+    "tablistLabel": "Nhóm năng lực",
+    "tags": {
+      "web": "Web",
+      "mobile": "Mobile",
+      "customSoftware": "Phần mềm tùy chỉnh",
+      "dedicatedTeam": "Đội ngũ chuyên trách",
+      "data": "Dữ liệu",
+      "analytics": "Phân tích",
+      "aiIntegration": "Tích hợp AI",
+      "automation": "Tự động hóa",
+      "iot": "IoT",
+      "aiot": "AIoT",
+      "lorawan": "LoRaWAN",
+      "monitoring": "Giám sát",
+      "training": "Đào tạo",
+      "globalInternship": "Thực tập toàn cầu",
+      "careerDevelopment": "Phát triển sự nghiệp",
+      "poc": "PoC",
+      "rnd": "R&D",
+      "technologyTransfer": "Chuyển giao công nghệ",
+      "productDevelopment": "Phát triển sản phẩm",
+      "community": "Cộng đồng",
+      "events": "Sự kiện",
+      "coworking": "Coworking",
+      "partnerships": "Hợp tác"
+    },
+    "items": {
+      "softwareDevelopment": {
+        "title": "Phát triển phần mềm",
+        "body": "Xây dựng giải pháp web, mobile và phần mềm tùy chỉnh có khả năng mở rộng, bám sát yêu cầu kinh doanh — từ thiết kế, phát triển đến kiểm thử và vận hành."
+      },
+      "aiData": {
+        "title": "AI & Dữ liệu",
+        "body": "Ứng dụng dữ liệu, phân tích và AI để tạo ra sản phẩm thông minh hơn, tự động hóa quy trình và nâng cao khả năng ra quyết định."
+      },
+      "aiotSmart": {
+        "title": "AIoT & Giải pháp thông minh",
+        "body": "Kết nối cảm biến, thiết bị, hạ tầng truyền dẫn và phần mềm để giám sát môi trường thực tế, cảnh báo kịp thời và vận hành thông minh hơn."
+      },
+      "educationTalent": {
+        "title": "Đào tạo & Nhân lực",
+        "body": "Phát triển năng lực công nghệ thực chiến qua đào tạo, thực tập và các trải nghiệm học tập gắn với doanh nghiệp."
+      },
+      "technologyTransfer": {
+        "title": "Chuyển giao công nghệ & Đổi mới",
+        "body": "Thử nghiệm, nội địa hóa và đồng phát triển công nghệ mới cùng đối tác để đẩy nhanh ứng dụng và biến ý tưởng thành giải pháp thực tế."
+      },
+      "communityEcosystem": {
+        "title": "Cộng đồng & Hệ sinh thái",
+        "body": "Kết nối doanh nghiệp, trường đại học, startup và nhân sự công nghệ thông qua cộng đồng, sự kiện, không gian làm việc chung và các sáng kiến hợp tác."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "NƠI CHÚNG TÔI TẠO GIÁ TRỊ",
+    "headline": "Công nghệ ứng dụng đúng chỗ",
+    "items": {
+      "businessEnterprise": {
+        "label": "Doanh nghiệp",
+        "headline": "Công nghệ cho tăng trưởng kinh doanh",
+        "body": "Sản phẩm số, kỹ thuật phần mềm và dịch vụ công nghệ giúp tổ chức xây dựng, cải tiến và mở rộng hoạt động số."
+      },
+      "educationTalent": {
+        "label": "Đào tạo & Nhân lực",
+        "headline": "Kết nối đào tạo & doanh nghiệp",
+        "body": "Các chương trình thực tiễn kết nối trường đại học, sinh viên và doanh nghiệp qua đào tạo, thực tập và trải nghiệm làm việc thực tế."
+      },
+      "smartAgriculture": {
+        "label": "Nông nghiệp & Thủy sản thông minh",
+        "headline": "Canh tác thông minh hơn nhờ công nghệ",
+        "body": "Giám sát và tự động hóa dựa trên AIoT, hỗ trợ vận hành nuôi trồng thủy sản hiệu quả, ổn định và bền vững hơn."
+      },
+      "greenInfrastructure": {
+        "label": "Hạ tầng xanh & thông minh",
+        "headline": "Môi trường thông minh và bền vững hơn",
+        "body": "Giải pháp AIoT và tiết kiệm năng lượng cho hạ tầng thông minh, giám sát và triển khai công nghệ trong thực tế."
+      },
+      "technologyCommunity": {
+        "label": "Cộng đồng công nghệ",
+        "headline": "Mở rộng hệ sinh thái công nghệ",
+        "body": "Tạo kết nối giữa nhân sự công nghệ, startup, trường đại học và doanh nghiệp để chia sẻ tri thức và mở ra cơ hội mới."
+      }
+    }
+  },
+  "impact": {
+    "eyebrow": "DẤU ẤN CỦA CHÚNG TÔI",
+    "headline": "Minh chứng bằng những con số",
+    "metrics": {
+      "engineers": {
+        "label": "Kỹ sư",
+        "caption": "Nhân sự công nghệ."
+      },
+      "projects": {
+        "label": "Dự án",
+        "caption": "Dự án đã triển khai thành công."
+      },
+      "readyToWorkTalent": {
+        "label": "Nhân lực sẵn sàng đi làm",
+        "caption": "Được đào tạo qua DevPlus."
+      },
+      "internationalTalent": {
+        "label": "Nhân lực quốc tế",
+        "caption": "Học viên quốc tế tham gia."
+      },
+      "aquaxPonds": {
+        "label": "Ao nuôi thông minh AquaX",
+        "caption": "Ao nuôi thủy sản thông minh."
+      },
+      "pondMeetings": {
+        "label": "Buổi làm việc tại ao",
+        "caption": "Buổi làm việc trực tiếp tại ao nuôi."
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "DỰ ÁN & CÂU CHUYỆN NỔI BẬT",
+    "headline": "Những công việc thể hiện rõ hệ sinh thái",
+    "viewAll": "Xem tất cả câu chuyện",
+    "categories": {
+      "aiotAquaculture": "AIoT / Thủy sản thông minh",
+      "educationTalent": "Đào tạo & Nhân lực",
+      "software": "Phần mềm",
+      "greenSmartTech": "Công nghệ xanh & thông minh"
+    },
+    "items": {
+      "aquaxSmartAquaculture": {
+        "title": "AquaX — Nuôi trồng thủy sản thông minh",
+        "body": "Giải pháp giám sát và nuôi tôm thông minh ứng dụng AIoT, giúp tăng khả năng kiểm soát, giảm rủi ro vận hành và hướng tới nuôi trồng bền vững hơn."
+      },
+      "devplusGlobalInternship": {
+        "title": "DevPlus Global Internship",
+        "body": "Chương trình thực tập quốc tế thực chiến, kết nối sinh viên với doanh nghiệp công nghệ tại Đà Nẵng qua dự án thật, cố vấn và giao lưu văn hóa."
+      },
+      "stSoftwareFlagship": {
+        "title": "Dự án tiêu biểu của ST Software",
+        "body": "Chọn một dự án phần mềm công khai thể hiện rõ nhất năng lực kỹ thuật, giá trị kinh doanh và khả năng triển khai quốc tế."
+      },
+      "conextSmartLighting": {
+        "title": "Conext Asia — Nền tảng chiếu sáng thông minh",
+        "body": "Dự án thử nghiệm chiếu sáng thông minh cho Sân bay Đà Nẵng, ứng dụng IoT và công nghệ tiết kiệm năng lượng cho vận hành hạ tầng thông minh hơn."
+      }
+    }
+  },
+  "globalReach": {
+    "eyebrow": "PHẠM VI TOÀN CẦU",
+    "headline": "Kết nối Việt Nam với thế giới",
+    "body": "Từ Đà Nẵng, ST United triển khai phần mềm, các chương trình đào tạo và hợp tác công nghệ cùng khách hàng, đối tác tại nhiều thị trường quốc tế.",
+    "cta": "Khám phá mạng lưới toàn cầu",
+    "mapLabel": "Bản đồ các thị trường ST United hoạt động",
+    "relations": {
+      "home": "Trụ sở chính",
+      "client": "Thị trường khách hàng",
+      "partner": "Thị trường đối tác",
+      "program": "Thị trường chương trình"
+    },
+    "markets": {
+      "vietnam": "Việt Nam",
+      "japan": "Nhật Bản",
+      "australia": "Úc",
+      "unitedStates": "Hoa Kỳ",
+      "korea": "Hàn Quốc",
+      "france": "Pháp",
+      "hongKong": "Hồng Kông"
+    }
+  },
+  "finalCta": {
+    "headline": "Cùng kiến tạo điều tiếp theo.",
+    "body": "Dù bạn đang tìm một đối tác công nghệ, quan tâm đến phát triển nhân lực hay muốn xây dựng một hợp tác mới — hãy cùng chúng tôi tạo nên điều có ý nghĩa.",
+    "primary": "Trao đổi với đội ngũ",
+    "secondary": "Trở thành đối tác",
+    "tertiary": "Gia nhập ST United"
+  },
+  "footer": {
+    "familySites": "Trang thành viên",
+    "selectSite": "Chọn một trang",
+    "address": "96 Nguyễn Đình Hoàn, Sơn Trà, Đà Nẵng, Việt Nam",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản sử dụng",
+    "rights": "© {year} ST United. Bảo lưu mọi quyền.",
+    "social": {
+      "linkedin": "LinkedIn",
+      "facebook": "Facebook"
+    }
+  },
+  "meta": {
+    "title": "ST United — Xây dựng hệ sinh thái công nghệ cho tương lai thông minh hơn",
+    "description": "ST United kết nối phát triển phần mềm, đào tạo nhân lực, AIoT và các sáng kiến công nghệ bền vững để tạo ra giá trị thiết thực cho doanh nghiệp, con người và cộng đồng."
+  },
+  "placeholder": {
+    "body": "Trang này thuộc sitemap đề xuất và chưa được xây dựng. Nội dung sẽ được bổ sung sau khi brief cho phần này được chốt.",
+    "backHome": "Về trang chủ"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "nav": {
+    "ecosystem": "エコシステム",
+    "capabilities": "事業領域",
+    "industries": "産業分野",
+    "company": "会社情報",
+    "stories": "ストーリー",
+    "contact": "お問い合わせ",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "skipToContent": "本文へスキップ",
+    "language": "言語",
+    "mainLabel": "メインナビゲーション",
+    "items": {
+      "stSoftware": "ST Software",
+      "devplus": "DevPlus",
+      "aquax": "AquaX",
+      "conextAsia": "Conext Asia",
+      "softwareDevelopment": "ソフトウェア開発",
+      "aiData": "AI & データ",
+      "aiotSmart": "AIoT & スマートソリューション",
+      "educationTalent": "教育 & 人材育成",
+      "technologyTransfer": "技術移転 & イノベーション",
+      "communityEcosystem": "コミュニティ & エコシステム",
+      "about": "ST United について",
+      "journey": "沿革",
+      "careers": "採用情報",
+      "contact": "お問い合わせ",
+      "projects": "プロジェクト & 事例",
+      "news": "ニュース & 活動"
+    },
+    "descriptors": {
+      "stSoftware": "ソフトウェア & テクノロジー",
+      "devplus": "教育 & 人材育成",
+      "aquax": "AIoT & スマート養殖",
+      "conextAsia": "グリーン & スマートテクノロジー"
+    },
+    "partnership": "パートナーシップ",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "common": {
+    "learnMore": "詳しく見る",
+    "discoverMore": "もっと見る",
+    "viewCase": "事例を見る",
+    "viewStory": "ストーリーを見る",
+    "opensInNewTab": "新しいタブで開きます",
+    "previousSlide": "前のスライド",
+    "nextSlide": "次のスライド",
+    "goToSlide": "スライド {number} へ移動"
+  },
+  "hero": {
+    "label": "メインカルーセル",
+    "slides": {
+      "stUnited": {
+        "headline": "よりスマートな未来を支える技術エコシステム",
+        "body": "ST United は、ソフトウェアエンジニアリング、人材育成、AIoT、持続可能な技術の取り組みを結び付け、企業・人・地域社会に実践的な価値を生み出します。",
+        "tab": "ST United",
+        "cta": "エコシステムを見る"
+      },
+      "stSoftware": {
+        "headline": "ビジネスを前進させるデジタルプロダクト",
+        "body": "Web・モバイルアプリケーションからカスタムソフトウェア、専任チームまで、実際のビジネス課題に即したデジタルプロダクトを開発します。",
+        "tab": "ST Software",
+        "cta": "ST Software を見る"
+      },
+      "devplus": {
+        "headline": "学びから、即戦力へ",
+        "body": "DevPlus は、実践的なトレーニング、グローバルインターンシップ、キャリア開発プログラムを通じて、大学・学生・企業を実務の現場でつなぎます。",
+        "tab": "DevPlus",
+        "cta": "DevPlus を見る"
+      },
+      "aquax": {
+        "headline": "AIoT でより賢いエビ養殖へ",
+        "body": "AquaX は、継続的な水質モニタリング、早期アラート、インテリジェント制御を組み合わせ、生産効率の向上とリスク低減、持続可能な養殖を支援します。",
+        "tab": "AquaX",
+        "cta": "AquaX を見る"
+      },
+      "conextAsia": {
+        "headline": "アジアをつなぐグリーン & スマートテクノロジー",
+        "body": "Conext Asia は、革新的な AIoT とサステナビリティ技術を、ベトナムとアジア太平洋における実装事例・パートナー・市場へとつなぎます。",
+        "tab": "Conext Asia",
+        "cta": "Conext Asia を見る"
+      }
+    }
+  },
+  "whoWeAre": {
+    "eyebrow": "ST UNITED テクノロジーエコシステム",
+    "headline": "テクノロジー、人、イノベーション — ひとつのエコシステムへ",
+    "body": "ST United は、ソフトウェアエンジニアリング、実践的な人材育成、AIoT ソリューション、グリーンテクノロジーの取り組みをつなぐ技術エコシステムです。人と技術、パートナーシップを結び、アイデアを確かな成果へと変えます。",
+    "cta": "ST United について",
+    "pillars": {
+      "technology": {
+        "title": "テクノロジー",
+        "body": "実際のビジネス課題に応えるデジタルプロダクトとスマートソリューションを構築します。"
+      },
+      "people": {
+        "title": "人",
+        "body": "実践的な学びとグローバルな経験を通じて、現場で活躍できる人材を育てます。"
+      },
+      "innovation": {
+        "title": "イノベーション",
+        "body": "先端技術とパートナー、市場をつなぎ、実社会への実装へと導きます。"
+      }
+    }
+  },
+  "ecosystem": {
+    "eyebrow": "エコシステム",
+    "headline": "4つのブランド、ひとつにつながるエコシステム",
+    "brands": {
+      "stSoftware": {
+        "category": "ソフトウェア & テクノロジー",
+        "headline": "確かに機能する技術をつくる",
+        "body": "ベトナムおよび海外市場の企業に向けて、Web・モバイル・カスタムソフトウェア開発と専任エンジニアリングチームを提供します。"
+      },
+      "devplus": {
+        "category": "教育 & 人材育成",
+        "headline": "次世代の技術人材を育てる",
+        "body": "大学・学生・企業をつなぐ、実践的な学習、グローバルインターンシップ、キャリア開発プログラムを展開しています。"
+      },
+      "aquax": {
+        "category": "AIoT & スマート養殖",
+        "headline": "AIoT でより賢い養殖へ",
+        "body": "水質モニタリング、早期アラート、インテリジェント制御を組み合わせ、より効率的で持続可能な運営を支えるスマートエビ養殖ソリューションです。"
+      },
+      "conextAsia": {
+        "category": "グリーン & スマートテクノロジー",
+        "headline": "グリーン & スマート技術交流のハブ",
+        "body": "AIoT とサステナビリティの革新を、ベトナムとアジア太平洋のパートナー・応用事例・市場へとつなぐテクノロジーハブです。"
+      }
+    }
+  },
+  "capabilities": {
+    "eyebrow": "事業内容",
+    "headline": "エコシステム全体を支える事業領域",
+    "body": "エンジニアリング、データ、コネクテッドデバイス、人材、パートナーシップ — プロジェクトが本当に必要とする成果を軸に組み合わせます。",
+    "cta": "事業領域を見る",
+    "tablistLabel": "事業領域カテゴリ",
+    "tags": {
+      "web": "ウェブ",
+      "mobile": "モバイル",
+      "customSoftware": "カスタムソフトウェア",
+      "dedicatedTeam": "専任チーム",
+      "data": "データ",
+      "analytics": "アナリティクス",
+      "aiIntegration": "AI連携",
+      "automation": "自動化",
+      "iot": "IoT",
+      "aiot": "AIoT",
+      "lorawan": "LoRaWAN",
+      "monitoring": "モニタリング",
+      "training": "研修",
+      "globalInternship": "グローバルインターンシップ",
+      "careerDevelopment": "キャリア開発",
+      "poc": "PoC",
+      "rnd": "R&D",
+      "technologyTransfer": "技術移転",
+      "productDevelopment": "製品開発",
+      "community": "コミュニティ",
+      "events": "イベント",
+      "coworking": "コワーキング",
+      "partnerships": "パートナーシップ"
+    },
+    "items": {
+      "softwareDevelopment": {
+        "title": "ソフトウェア開発",
+        "body": "ビジネス要件に沿った拡張性のある Web・モバイル・カスタムソフトウェアを、設計・開発からテスト、継続的な運用支援まで一貫して提供します。"
+      },
+      "aiData": {
+        "title": "AI & データ",
+        "body": "データ、アナリティクス、AI を活用し、より賢いプロダクトづくりと業務の自動化、意思決定の精度向上を実現します。"
+      },
+      "aiotSmart": {
+        "title": "AIoT & スマートソリューション",
+        "body": "センサー、デバイス、通信、ソフトウェアを連携させ、現場環境のモニタリングとアラート、よりスマートな運用を可能にします。"
+      },
+      "educationTalent": {
+        "title": "教育 & 人材育成",
+        "body": "実務のニーズに基づいたトレーニング、インターンシップ、産学連携の学習機会を通じて、実践的な技術力を育てます。"
+      },
+      "technologyTransfer": {
+        "title": "技術移転 & イノベーション",
+        "body": "パートナーとともに先端技術の実証・ローカライズ・共同開発を進め、導入を加速し、新しいアイデアを実用的なソリューションへと変えます。"
+      },
+      "communityEcosystem": {
+        "title": "コミュニティ & エコシステム",
+        "body": "コミュニティ、イベント、シェアードスペース、パートナーシップを通じて、企業・大学・スタートアップ・技術者をつなぎます。"
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "価値を生み出す領域",
+    "headline": "必要とされる現場に届く技術",
+    "items": {
+      "businessEnterprise": {
+        "label": "企業 & エンタープライズ",
+        "headline": "ビジネス成長を支える技術",
+        "body": "デジタルプロダクト、ソフトウェアエンジニアリング、技術サービスにより、組織のデジタル基盤の構築・改善・拡張を支援します。"
+      },
+      "educationTalent": {
+        "label": "教育 & 人材育成",
+        "headline": "教育と産業をつなぐ",
+        "body": "トレーニング、インターンシップ、実際の就業体験を通じて、大学・学生・企業をつなぐ実践的なプログラムを提供します。"
+      },
+      "smartAgriculture": {
+        "label": "スマート農業 & 養殖",
+        "headline": "テクノロジーで、より賢い生産現場へ",
+        "body": "AIoT によるモニタリングと自動化で、より効率的かつ安定的で持続可能な養殖運営を支援します。"
+      },
+      "greenInfrastructure": {
+        "label": "グリーン & スマートインフラ",
+        "headline": "よりスマートで持続可能な環境へ",
+        "body": "スマートインフラ、モニタリング、現場での技術導入に向けた AIoT およびエネルギー効率ソリューションを提供します。"
+      },
+      "technologyCommunity": {
+        "label": "テクノロジーコミュニティ",
+        "headline": "技術エコシステムを育てる",
+        "body": "技術者、スタートアップ、大学、企業が知識を共有し、新たな機会を生み出せるようつなぎます。"
+      }
+    }
+  },
+  "impact": {
+    "eyebrow": "私たちの実績",
+    "headline": "数字で見る成果",
+    "metrics": {
+      "engineers": {
+        "label": "エンジニア",
+        "caption": "技術専門人材。"
+      },
+      "projects": {
+        "label": "プロジェクト",
+        "caption": "完遂したプロジェクト。"
+      },
+      "readyToWorkTalent": {
+        "label": "即戦力人材",
+        "caption": "DevPlus を通じて育成。"
+      },
+      "internationalTalent": {
+        "label": "海外人材",
+        "caption": "海外からの参加者。"
+      },
+      "aquaxPonds": {
+        "label": "AquaX スマート養殖池",
+        "caption": "スマート養殖池。"
+      },
+      "pondMeetings": {
+        "label": "養殖現場ミーティング",
+        "caption": "現地での養殖池ミーティング。"
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "注目のプロジェクト & ストーリー",
+    "headline": "エコシステムが動く現場から",
+    "viewAll": "すべてのストーリーを見る",
+    "categories": {
+      "aiotAquaculture": "AIoT / スマート養殖",
+      "educationTalent": "教育 & 人材育成",
+      "software": "ソフトウェア",
+      "greenSmartTech": "グリーン & スマートテクノロジー"
+    },
+    "items": {
+      "aquaxSmartAquaculture": {
+        "title": "AquaX スマート養殖",
+        "body": "可視性を高め、運用リスクを抑え、持続可能な養殖を支えるために設計された、AIoT によるモニタリングとスマートエビ養殖ソリューションです。"
+      },
+      "devplusGlobalInternship": {
+        "title": "DevPlus グローバルインターンシップ",
+        "body": "実際のプロジェクト、メンタリング、文化交流を通じて、大学生とダナンのテクノロジー企業をつなぐ実践的な国際インターンシッププログラムです。"
+      },
+      "stSoftwareFlagship": {
+        "title": "ST Software 代表事例",
+        "body": "エンジニアリング力、ビジネス価値、国際的なデリバリー実績を最もよく示す公開可能なソフトウェアプロジェクトを選定します。"
+      },
+      "conextSmartLighting": {
+        "title": "Conext Asia — スマート照明プラットフォーム",
+        "body": "IoT とエネルギー効率技術を活用し、よりスマートなインフラ運用を支えるダナン空港向けスマート照明の実証プロジェクトです。"
+      }
+    }
+  },
+  "globalReach": {
+    "eyebrow": "グローバルネットワーク",
+    "headline": "ベトナムと世界をつなぐ",
+    "body": "ダナンを拠点に、ST United はソフトウェア開発、教育プログラム、技術パートナーシップを通じて、複数の海外市場のクライアントや協力先とともに取り組んでいます。",
+    "cta": "グローバルネットワークを見る",
+    "mapLabel": "ST United が活動する市場の地図",
+    "relations": {
+      "home": "本社",
+      "client": "クライアント市場",
+      "partner": "パートナー市場",
+      "program": "プログラム市場"
+    },
+    "markets": {
+      "vietnam": "ベトナム",
+      "japan": "日本",
+      "australia": "オーストラリア",
+      "unitedStates": "アメリカ合衆国",
+      "korea": "韓国",
+      "france": "フランス",
+      "hongKong": "香港"
+    }
+  },
+  "finalCta": {
+    "headline": "次の一歩を、ともに。",
+    "body": "技術パートナーをお探しの方も、人材育成の可能性を検討されている方も、新たな協業を構想されている方も — 意味のある成果をご一緒につくりましょう。",
+    "primary": "チームに相談する",
+    "secondary": "パートナーとして連携する",
+    "tertiary": "ST United に参加する"
+  },
+  "footer": {
+    "familySites": "ファミリーサイト",
+    "selectSite": "サイトを選択",
+    "address": "ベトナム ダナン市ソンチャ区 グエン・ディン・ホアン通り96",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "rights": "© {year} ST United. All rights reserved.",
+    "social": {
+      "linkedin": "LinkedIn",
+      "facebook": "Facebook"
+    }
+  },
+  "meta": {
+    "title": "ST United — よりスマートな未来を支える技術エコシステム",
+    "description": "ST United は、ソフトウェアエンジニアリング、人材育成、AIoT、持続可能な技術の取り組みを結び付け、企業・人・地域社会に実践的な価値を生み出します。"
+  },
+  "placeholder": {
+    "body": "このページは提案中のサイトマップに含まれており、現在準備中です。当該セクションの企画が確定次第、コンテンツを追加します。",
+    "backHome": "ホームに戻る"
+  }
+}

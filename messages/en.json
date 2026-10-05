@@ -1,0 +1,330 @@
+{
+  "nav": {
+    "ecosystem": "Ecosystem",
+    "capabilities": "Capabilities",
+    "industries": "Industries",
+    "company": "Company",
+    "stories": "Stories",
+    "contact": "Contact Us",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content",
+    "language": "Language",
+    "mainLabel": "Main",
+    "items": {
+      "stSoftware": "ST Software",
+      "devplus": "DevPlus",
+      "aquax": "AquaX",
+      "conextAsia": "Conext Asia",
+      "softwareDevelopment": "Software Development",
+      "aiData": "AI & Data",
+      "aiotSmart": "AIoT & Smart Solutions",
+      "educationTalent": "Education & Talent",
+      "technologyTransfer": "Technology Transfer & Innovation",
+      "communityEcosystem": "Community & Ecosystem",
+      "about": "About ST United",
+      "journey": "Our Journey",
+      "careers": "Careers",
+      "contact": "Contact",
+      "projects": "Projects & Case Studies",
+      "news": "News & Activities"
+    },
+    "descriptors": {
+      "stSoftware": "Software & Technology",
+      "devplus": "Education & Talent",
+      "aquax": "AIoT & Smart Aquaculture",
+      "conextAsia": "Green & Smart Technology"
+    },
+    "partnership": "Partnership",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "discoverMore": "Discover More",
+    "viewCase": "View Case",
+    "viewStory": "View Story",
+    "opensInNewTab": "opens in a new tab",
+    "previousSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "goToSlide": "Go to slide {number}"
+  },
+  "hero": {
+    "label": "Hero carousel",
+    "slides": {
+      "stUnited": {
+        "headline": "Building a Technology Ecosystem for a Smarter Future",
+        "body": "ST United brings together software engineering, talent development, AIoT and sustainable technology initiatives to create practical value for businesses, people and communities.",
+        "tab": "ST United",
+        "cta": "Explore Our Ecosystem"
+      },
+      "stSoftware": {
+        "headline": "Engineering Digital Products That Move Businesses Forward",
+        "body": "From web and mobile applications to custom software and dedicated teams, our engineers build practical digital products around real business needs.",
+        "tab": "ST Software",
+        "cta": "Explore ST Software"
+      },
+      "devplus": {
+        "headline": "From Learning to Ready-to-Work",
+        "body": "DevPlus connects universities, students and businesses through hands-on training, global internship and career development programs designed around real workplace experience.",
+        "tab": "DevPlus",
+        "cta": "Explore DevPlus"
+      },
+      "aquax": {
+        "headline": "Smarter Shrimp Farming with AIoT",
+        "body": "AquaX combines continuous water monitoring, early alerts and intelligent control to help farms improve efficiency, reduce risk and support more sustainable aquaculture.",
+        "tab": "AquaX",
+        "cta": "Explore AquaX"
+      },
+      "conextAsia": {
+        "headline": "Connecting Green & Smart Technology Across Asia",
+        "body": "Conext Asia bridges innovative AIoT and sustainability technologies with real-world applications, partners and markets across Vietnam and Asia-Pacific.",
+        "tab": "Conext Asia",
+        "cta": "Explore Conext Asia"
+      }
+    }
+  },
+  "whoWeAre": {
+    "eyebrow": "ST UNITED TECHNOLOGY ECOSYSTEM",
+    "headline": "Technology, People & Innovation — Connected in One Ecosystem",
+    "body": "ST United is a technology ecosystem connecting software engineering, practical talent development, AIoT solutions and green technology initiatives. We bring people, technology and partnerships together to turn ideas into practical outcomes.",
+    "cta": "About ST United",
+    "pillars": {
+      "technology": {
+        "title": "Technology",
+        "body": "Build digital products and smart solutions for real business needs."
+      },
+      "people": {
+        "title": "People",
+        "body": "Develop work-ready talent through practical learning and global exposure."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "body": "Connect emerging technologies, partners and markets for real-world adoption."
+      }
+    }
+  },
+  "ecosystem": {
+    "eyebrow": "OUR ECOSYSTEM",
+    "headline": "Four Brands, One Connected Ecosystem",
+    "brands": {
+      "stSoftware": {
+        "category": "Software & Technology",
+        "headline": "Building Technology That Works",
+        "body": "Software development services covering web, mobile, custom software and dedicated engineering teams for businesses in Vietnam and international markets."
+      },
+      "devplus": {
+        "category": "Education & Talent",
+        "headline": "Building the Next Generation of Tech Talent",
+        "body": "Practical learning, global internship and career development programs that connect universities, students and businesses."
+      },
+      "aquax": {
+        "category": "AIoT & Smart Aquaculture",
+        "headline": "Smarter Aquaculture Through AIoT",
+        "body": "A smart shrimp farming solution combining water-quality monitoring, early alerts and intelligent control to support more efficient and sustainable operations."
+      },
+      "conextAsia": {
+        "category": "Green & Smart Technology",
+        "headline": "The Hub for Green & Smart Technology Exchange",
+        "body": "A technology hub connecting AIoT and sustainability innovations with partners, applications and markets across Vietnam and Asia-Pacific."
+      }
+    }
+  },
+  "capabilities": {
+    "eyebrow": "WHAT WE DO",
+    "headline": "Capabilities Across the Ecosystem",
+    "body": "Engineering, data, connected devices, talent and partnerships — combined around the outcome a project actually needs.",
+    "cta": "Explore Capabilities",
+    "tablistLabel": "Capability categories",
+    "tags": {
+      "web": "Web",
+      "mobile": "Mobile",
+      "customSoftware": "Custom Software",
+      "dedicatedTeam": "Dedicated Team",
+      "data": "Data",
+      "analytics": "Analytics",
+      "aiIntegration": "AI Integration",
+      "automation": "Automation",
+      "iot": "IoT",
+      "aiot": "AIoT",
+      "lorawan": "LoRaWAN",
+      "monitoring": "Monitoring",
+      "training": "Training",
+      "globalInternship": "Global Internship",
+      "careerDevelopment": "Career Development",
+      "poc": "PoC",
+      "rnd": "R&D",
+      "technologyTransfer": "Technology Transfer",
+      "productDevelopment": "Product Development",
+      "community": "Community",
+      "events": "Events",
+      "coworking": "Coworking",
+      "partnerships": "Partnerships"
+    },
+    "items": {
+      "softwareDevelopment": {
+        "title": "Software Development",
+        "body": "Build scalable web, mobile and custom software solutions around business requirements, from product design and development to testing and ongoing support."
+      },
+      "aiData": {
+        "title": "AI & Data",
+        "body": "Apply data, analytics and AI to create smarter products, automate workflows and improve visibility for better decisions."
+      },
+      "aiotSmart": {
+        "title": "AIoT & Smart Solutions",
+        "body": "Connect sensors, devices, connectivity and software to monitor real-world environments, trigger alerts and enable smarter operations."
+      },
+      "educationTalent": {
+        "title": "Education & Talent",
+        "body": "Develop practical technology capabilities through training, internships and industry-linked learning experiences designed around workplace needs."
+      },
+      "technologyTransfer": {
+        "title": "Technology Transfer & Innovation",
+        "body": "Pilot, localize and co-develop emerging technologies with partners to accelerate adoption and turn new ideas into practical applications."
+      },
+      "communityEcosystem": {
+        "title": "Community & Ecosystem",
+        "body": "Connect companies, universities, startups and technology professionals through communities, events, shared spaces and partnership initiatives."
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "WHERE WE CREATE IMPACT",
+    "headline": "Technology Applied Where It Matters",
+    "items": {
+      "businessEnterprise": {
+        "label": "Business & Enterprise",
+        "headline": "Technology for Business Growth",
+        "body": "Digital products, software engineering and technology services that help organizations build, improve and scale digital operations."
+      },
+      "educationTalent": {
+        "label": "Education & Talent",
+        "headline": "Connecting Education & Industry",
+        "body": "Practical programs that connect universities, students and companies through training, internships and real workplace exposure."
+      },
+      "smartAgriculture": {
+        "label": "Smart Agriculture & Aquaculture",
+        "headline": "Smarter Farming Through Technology",
+        "body": "AIoT-powered monitoring and automation that support more efficient, resilient and sustainable aquaculture operations."
+      },
+      "greenInfrastructure": {
+        "label": "Green & Smart Infrastructure",
+        "headline": "Smarter, More Sustainable Environments",
+        "body": "AIoT and energy-efficiency solutions for smart infrastructure, monitoring and real-world technology deployments."
+      },
+      "technologyCommunity": {
+        "label": "Technology Community",
+        "headline": "Growing the Technology Ecosystem",
+        "body": "Creating connections between technology professionals, startups, universities and businesses to share knowledge and build new opportunities."
+      }
+    }
+  },
+  "impact": {
+    "eyebrow": "OUR IMPACT",
+    "headline": "Proof in Numbers",
+    "metrics": {
+      "engineers": {
+        "label": "Engineers",
+        "caption": "Technology professionals."
+      },
+      "projects": {
+        "label": "Projects",
+        "caption": "Successful projects."
+      },
+      "readyToWorkTalent": {
+        "label": "Ready-to-Work Talent",
+        "caption": "Developed through DevPlus."
+      },
+      "internationalTalent": {
+        "label": "International Talent",
+        "caption": "International participants."
+      },
+      "aquaxPonds": {
+        "label": "AquaX Smart Ponds",
+        "caption": "Smart aquaculture ponds."
+      },
+      "pondMeetings": {
+        "label": "On-site Pond Meetings",
+        "caption": "On-site pond meetings."
+      }
+    }
+  },
+  "stories": {
+    "eyebrow": "FEATURED PROJECTS & STORIES",
+    "headline": "Work That Shows the Ecosystem at Work",
+    "viewAll": "View All Stories",
+    "categories": {
+      "aiotAquaculture": "AIoT / Smart Aquaculture",
+      "educationTalent": "Education & Talent",
+      "software": "Software",
+      "greenSmartTech": "Green & Smart Technology"
+    },
+    "items": {
+      "aquaxSmartAquaculture": {
+        "title": "AquaX Smart Aquaculture",
+        "body": "AIoT-powered monitoring and smart shrimp farming solution designed to improve visibility, reduce operational risk and support more sustainable aquaculture."
+      },
+      "devplusGlobalInternship": {
+        "title": "DevPlus Global Internship",
+        "body": "A practical international internship program connecting university students with technology companies in Da Nang through real projects, mentoring and cultural exchange."
+      },
+      "stSoftwareFlagship": {
+        "title": "ST Software Flagship Case",
+        "body": "Select one public software project that best demonstrates engineering capability, business value and international delivery."
+      },
+      "conextSmartLighting": {
+        "title": "Conext Asia — Smart Lighting Platform",
+        "body": "Smart-lighting PoC for Da Nang Airport using IoT and energy-efficiency technology to support smarter infrastructure operations."
+      }
+    }
+  },
+  "globalReach": {
+    "eyebrow": "GLOBAL REACH",
+    "headline": "Connecting Vietnam with the World",
+    "body": "From our base in Da Nang, ST United works across software delivery, education programs and technology partnerships with clients and collaborators in multiple international markets.",
+    "cta": "Explore Our Global Network",
+    "mapLabel": "Map of markets where ST United operates",
+    "relations": {
+      "home": "Headquarters",
+      "client": "Client market",
+      "partner": "Partner market",
+      "program": "Program market"
+    },
+    "markets": {
+      "vietnam": "Vietnam",
+      "japan": "Japan",
+      "australia": "Australia",
+      "unitedStates": "United States",
+      "korea": "Korea",
+      "france": "France",
+      "hongKong": "Hong Kong"
+    }
+  },
+  "finalCta": {
+    "headline": "Let's Build What's Next.",
+    "body": "Whether you are looking for a technology partner, exploring talent development opportunities or building a new collaboration, let's create something meaningful together.",
+    "primary": "Talk to Our Team",
+    "secondary": "Partner With Us",
+    "tertiary": "Join ST United"
+  },
+  "footer": {
+    "familySites": "Family Sites",
+    "selectSite": "Select a site",
+    "address": "96 Nguyen Dinh Hoan, Son Tra, Da Nang, Vietnam",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "rights": "© {year} ST United. All rights reserved.",
+    "social": {
+      "linkedin": "LinkedIn",
+      "facebook": "Facebook"
+    }
+  },
+  "meta": {
+    "title": "ST United — Building a Technology Ecosystem for a Smarter Future",
+    "description": "ST United brings together software engineering, talent development, AIoT and sustainable technology initiatives to create practical value for businesses, people and communities."
+  },
+  "placeholder": {
+    "body": "This page is part of the proposed sitemap and is not built yet. Content will follow once the brief for this section is confirmed.",
+    "backHome": "Back to homepage"
+  }
+}

@@ -1,26 +1,110 @@
 @import "tailwindcss";
 
+/* ---------------------------------------------------------------------------
+   ST United — design tokens
+   Palette sampled from the live site (stunited.vn). Brief §Brand asks for the
+   ST United identity colour as the lead, white/neutral support and ONE accent.
+   The live site actually ships two accents (violet + ember); violet is treated
+   as primary here and ember is restricted to eyebrows / category tags.
+   >>> Replace with the official brand guideline values when they arrive. <<<
+--------------------------------------------------------------------------- */
+@theme {
+  /* Core identity — deep navy */
+  --color-navy-950: #06072b;
+  --color-navy-900: #0a0b36;
+  --color-navy-800: #0f1836;
+  --color-navy-700: #18224a;
+  --color-navy-600: #232e5c;
+
+  /* Primary accent — violet */
+  --color-accent-400: #b3a7ff;
+  --color-accent-500: #9b8bf9;
+  --color-accent-600: #9785ff;
+
+  /* Secondary accent — ember. Eyebrows and category tags only. */
+  --color-ember-500: #ff5533;
+
+  /* Neutrals */
+  --color-ink: #0b0c1f;
+  --color-mist: #908bb1;
+  --color-paper: #ffffff;
+  --color-paper-soft: #f6f6fb;
+
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  /* Section rhythm (brief §11). Tightened from 7.5/4.5rem — at the original
+     scale the homepage ran to ~11 viewports, which reads as padding rather
+     than as the "spacious" the brand direction asks for. */
+  --spacing-section: 5rem;
+  --spacing-section-sm: 3.25rem;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --header-height: 4.5rem;
+  /* Height of the hero's labelled tab strip; the progress bar is positioned
+     against it, so both read from one value. */
+  --hero-tabs-h: 4.25rem;
+  color-scheme: dark;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+@media (min-width: 768px) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --hero-tabs-h: 5rem;
   }
 }
 
+html {
+  scroll-behavior: smooth;
+  /* Anchor targets must clear the sticky header. */
+  scroll-padding-top: var(--header-height);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-navy-950);
+  color: var(--color-paper);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* CJK line breaking.
+   Korean must not break inside a word — the default `break-word` behaviour
+   splits e.g. 위한 across two lines, which reads as a typo. `keep-all` fixes
+   that; `break-word` stays as the escape hatch for a token too long for its
+   column. Japanese gets strict kinsoku so punctuation never starts a line. */
+:lang(ko) {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+:lang(ja) {
+  line-break: strict;
+  overflow-wrap: break-word;
+}
+
+/* Accessibility §11 — visible focus states on every interactive element. */
+:focus-visible {
+  outline: 2px solid var(--color-accent-500);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* Accessibility §11 — respect reduced-motion. Components also check this in JS
+   (useReducedMotion) so autoplay and counters stop, not just transitions. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Utility: edge-to-edge media inside a contained section. */
+@utility full-bleed {
+  width: 100vw;
+  margin-inline: calc(50% - 50vw);
 }
